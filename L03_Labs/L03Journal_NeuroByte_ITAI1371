@@ -3,6 +3,14 @@ ACADEMIC REFLECTIVE JOURNAL
 L03 
 
 1.	INTRODUCTION
+In this module 3 lab, L03 ML (Machine Learning) Workflow and Learning Types, it taught me how a workflow can be used to grow and develop the models while also learning to evaluate the data in the model. 
+As a first learning starter from the last lab, introductory of machine learning using algorithms and tools to add to create models with the data given. 
+With this lab of wine sets however showed how to completely explore the data given, to understand the problems given at hand, while picking and using the features to help evaluate performance and 
+being able to interpret the results accurately rather than in predictive route.
+
+Also with learning in this lab of wine classification project, there were some new challenges and terms/tools I never heard of again, which changed my thoughts of machine learning than the idea I had from the last lab. 
+It showed there was more in machine learning by learning and recognizing the differences in reinforcement learning, supervised learning, and unsupervised learning while learning to implement in real 
+world situations or problems in different fields.
 
 2.	DESCRIPTION OF EXPIRIENCE/TOPIC
 
@@ -16,4 +24,5 @@ L03
 {type conclusion}
 
 6.	REFERENCES
-{add references}
+For references, I mainly refer to the reference guide to google collab again in case if I get lost or need to do something different. I also use google in case I don’t understand any new terms I did not understand or certain 
+tools being used along the way. Lastly, I refer to module 3 powerpoint, to understand what I will run into in this modules lab.
