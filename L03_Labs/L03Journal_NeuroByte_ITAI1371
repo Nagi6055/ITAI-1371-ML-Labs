@@ -12,14 +12,21 @@ Also with learning in this lab of wine classification project, there were some n
 It showed there was more in machine learning by learning and recognizing the differences in reinforcement learning, supervised learning, and unsupervised learning while learning to implement in real 
 world situations or problems in different fields.
 
-2.	DESCRIPTION OF EXPIRIENCE/TOPIC
+2.	DESCRIPTION OF EXPIRIENCE/TOPIC: Zayaan: This assignment introduced and helped me understand the three main types of machine learning: supervised, unsupervised, and reinforcement learning. 
+It helped give a more cleared view that each type is used for different kinds of problems and data. 
+Wine Classification project was a great hands-on experience with supervised learning, where a model we train, uses labeled data to learn how to classify different types of wine. 
+I also learned that different machine learning models can produce different results, so comparing their performance is important when deciding which model works best.
 
 3.	PERSONAL REFLECTION
 After I reviewed Module 3, I learned more about machine learning and how it works. I learned about supervised learning, unsupervised learning, and reinforcement learning. I understand that each one can be used for different problems.
 I also learned about the Wine Classification project. I reviewed how the data was used to train and test the models. I learned that it is important to check the data and compare different models to see which one works better.
 This module helped me understand that machine learning is not only about making a model. We also need to test the model and check the results. I think this will help me understand more about machine learning in the future.
 
-4.	DISCUSSION OF IMPROVEMENT AND LEARNING
+4.	DISCUSSION OF IMPROVEMENT AND LEARNING: Zayaan: I got to practice working on a dataset, where I used machine learning algorithms for classification, and compared their results.
+One challenge I faced was trying to understand why some models worked better than others, and what could be done to make improvements, which made me realize & understand that machine learning is all about experimenting with various algorithms. 
+At first, understanding the differences between supervised, unsupervised, and reinforcement learning was a little confusing at first
+but going more through the lab and working through the Wine Classification project made the differences easier to understand. I also noticed that choosing
+a model is not just about getting an answer, but looking at how well the model performs. 
 
 
 5.	CONCLUSION
